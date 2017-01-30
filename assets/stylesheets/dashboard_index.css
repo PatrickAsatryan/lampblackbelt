@@ -1,0 +1,35 @@
+* {
+	padding: 0;
+	margin:0 auto;
+	font-family: Helvetica;
+}
+#container {
+	width: 1280px;
+}
+#welcomeBox {
+	width: 880px;
+	background: gray;
+	margin-top: 60px;
+	padding: 8px 0 8px 8px;
+}
+#welcomeBox h1 {
+	margin-bottom: 25px;
+}
+#welcomeBox h3 {
+	margin-bottom: 25px;
+}
+#start {
+	height: 45px;
+	width: 65px;
+	border-radius: 5px;
+	font-size: 15px;
+}
+#bottomInfo {
+	width: 800px;
+}
+.infoBox {
+	display: inline-block;
+	width: 250px;
+	margin: 45px 5px;
+	vertical-align: top;
+}

@@ -1,0 +1,32 @@
+* {
+	padding: 0;
+	margin:0 auto;
+	font-family: Helvetica;
+}
+#container {
+	width: 1280px;
+}
+#leftDiv {
+	width: 275px;
+	margin: 45px 0 0 0;
+	display: inline-block;
+}
+#rightDiv {
+	width: 275px;
+	margin: 45px 0 0 40px;
+	display: inline-block;
+	vertical-align: top;
+}
+#topDiv {
+	width: 800px;
+	margin-top: 45px;
+}
+#bottomDiv {
+	width: 800px;
+	margin-top: 45px;
+}
+textarea {
+	resize: none;
+	width: 797px;
+	height: 150px;
+}

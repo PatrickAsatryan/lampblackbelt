@@ -1,0 +1,67 @@
+* {
+	padding: 0;
+	margin:0 auto;
+	font-family: Helvetica;
+}
+#container {
+	width: 1280px;
+	margin-top: 45px;
+}
+#wrapper {
+	width: 800px;
+}
+#fields {
+	display: inline-block;
+}
+#variables {
+	display: inline-block;
+}
+#messageText {
+	resize: none;
+	width: 798px;
+	height: 70px;
+}
+#postMessage {
+	margin: 15px 0;
+}
+#messageInfo{
+	margin-top: 15px;
+}
+#messageInfo p {
+	display: inline-block;
+}
+#messageInfo small {
+	float: right;
+}
+.message {
+	margin: 5px 0;
+	background: lightgray;
+	padding: 10px 0 10px 10px;
+	display: block;
+}
+.comment {
+	width: 600px;
+	float: right;
+	margin-top: 5px;
+	background: lightblue;
+	padding: 5px 0 5px 5px;
+}
+.pComment {
+	margin-left: 195px;
+}
+#commentText {
+	margin: 10px 0 5px 193px;
+	resize: none;
+	width: 605px;
+	height: 50px;
+	margin-bottom: 5px;
+	margin-left: 193px;
+}
+form {
+	margin-bottom: 15px;
+}
+.float {
+	/*float: right;*/
+	/*display: inline;*/
+	margin-left: 755px;
+}

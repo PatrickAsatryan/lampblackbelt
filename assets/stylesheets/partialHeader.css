@@ -1,0 +1,10 @@
+li {
+	display: inline-block;
+	margin: 0 25px 5px 0;
+}
+a {
+	text-decoration: none;
+}
+ul {
+	margin: 5px 0 0 5px;
+}

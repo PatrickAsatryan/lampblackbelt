@@ -1,0 +1,28 @@
+* {
+	padding: 0;
+	margin:0 auto;
+	font-family: Helvetica;
+}
+#container {
+	width: 1280px;
+}
+#userDiv {
+	width: 800px;
+	margin-top: 45px;
+}
+h1 {
+	margin-bottom: 30px;
+}
+table {
+	border: 1px solid black;
+	border-collapse: collapse;
+	float: left;
+}
+td {
+	border: 1px solid black;
+	padding: 3px;
+}
+th {
+	border: 1px solid black;
+	padding: 3px;
+}
